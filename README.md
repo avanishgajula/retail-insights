@@ -1,3 +1,9 @@
+# retail insights
+
+`retail insights` is a beginner-friendly retail analytics project built with Python. It demonstrates a simple end-to-end workflow for downloading data, cleaning it, loading it into SQLite, serving metrics through FastAPI, and viewing those metrics in a Streamlit dashboard.
+
+The project is intentionally small and readable. It is suitable for learning data pipelines, API basics, dashboarding, and testing without needing cloud services or a complex data platform.
+
 ## Dashboard Preview
 
 ### Retail Sales Overview
@@ -5,12 +11,6 @@
 
 ### Additional Dashboard View
 <img width="1280" height="900" alt="image" src="https://github.com/user-attachments/assets/56e416b5-9b5f-482d-a13d-2feab793d31e" />
-
-# retail insights
-
-`retail insights` is a beginner-friendly retail analytics project built with Python. It demonstrates a simple end-to-end workflow for downloading data, cleaning it, loading it into SQLite, serving metrics through FastAPI, and viewing those metrics in a Streamlit dashboard.
-
-The project is intentionally small and readable. It is suitable for learning data pipelines, API basics, dashboarding, and testing without needing cloud services or a complex data platform.
 
 ## Data Flow
 
