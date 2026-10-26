@@ -111,12 +111,6 @@ streamlit run dashboards/streamlit_app.py
 
 The dashboard tries to read from the FastAPI server first. If the API is not running, it falls back to querying `analytics.db` directly.
 
-
-<img width="1280" height="900" alt="image" src="https://github.com/user-attachments/assets/56e416b5-9b5f-482d-a13d-2feab793d31e" />
-<img width="1264" height="904" alt="image" src="https://github.com/user-attachments/assets/2db70494-41c9-4396-bc7d-173f7eb11202" />
-
-
-
 ## Run Tests
 
 Run the test suite:
